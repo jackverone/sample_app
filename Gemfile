@@ -9,6 +9,7 @@ end
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
+# GitHub Repo Link your app to a GitHub repository to see commit diffs in the activity log.
 
 # Gems used only for assets and not required
 # in production environments by default.
